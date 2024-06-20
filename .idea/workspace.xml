@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6b6075f-fbc8-4591-b9af-2a43d3733c3e" name="Changes" comment="" />
+    <list default="true" id="c6b6075f-fbc8-4591-b9af-2a43d3733c3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/JunePracticals/arrays/lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JunePracticals/arrays/lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JunePracticals/arrays/lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JunePracticals/arrays/lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JunePracticals/arrays/lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JunePracticals/arrays/lab006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JunePracticals/lab001.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +42,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.JunePracticals.arrays.lab001.executor": "Run",
     "Application.lab001.executor": "Run",
+    "Application.lab002.executor": "Run",
+    "Application.lab003.executor": "Debug",
+    "Application.lab004.executor": "Run",
+    "Application.lab005.executor": "Run",
+    "Application.lab006.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
@@ -43,13 +61,65 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JunePracticals.lab001" />
+  <component name="RunManager" selected="Application.lab006">
+    <configuration name="lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JunePracticals.arrays.lab002" />
       <module name="JavaPracticals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JunePracticals.*" />
+          <option name="PATTERN" value="JunePracticals.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JunePracticals.arrays.lab003" />
+      <module name="JavaPracticals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JunePracticals.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JunePracticals.arrays.lab004" />
+      <module name="JavaPracticals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JunePracticals.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JunePracticals.arrays.lab005" />
+      <module name="JavaPracticals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JunePracticals.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JunePracticals.arrays.lab006" />
+      <module name="JavaPracticals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JunePracticals.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,7 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lab001" />
+        <item itemvalue="Application.lab006" />
+        <item itemvalue="Application.lab005" />
+        <item itemvalue="Application.lab004" />
+        <item itemvalue="Application.lab003" />
+        <item itemvalue="Application.lab002" />
       </list>
     </recent_temporary>
   </component>
@@ -79,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718881013202</updated>
-      <workItem from="1718881014884" duration="315000" />
+      <workItem from="1718881014884" duration="7307000" />
     </task>
     <servers />
   </component>
