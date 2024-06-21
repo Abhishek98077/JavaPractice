@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6b6075f-fbc8-4591-b9af-2a43d3733c3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PracticeProblems/anyNumberTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeProblems/palaindroneNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +45,7 @@
     "Application.lab006.executor": "Run",
     "Application.lab007.executor": "Run",
     "Application.lab008.executor": "Run",
-    "Application.palaindroneNumber.executor": "Run",
+    "Application.palaindroneNumber.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "dev",
@@ -155,7 +153,7 @@
       <updated>1718881013202</updated>
       <workItem from="1718881014884" duration="7380000" />
       <workItem from="1718946904745" duration="2145000" />
-      <workItem from="1718954083050" duration="4640000" />
+      <workItem from="1718954083050" duration="5442000" />
     </task>
     <servers />
   </component>
