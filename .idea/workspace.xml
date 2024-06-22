@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6b6075f-fbc8-4591-b9af-2a43d3733c3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PracticeProblems/gradeCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeProblems/palaindroneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeProblems/palaindroneNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
   "keyToString": {
     "Application.JunePracticals.arrays.lab001.executor": "Run",
     "Application.anyNumberTable.executor": "Run",
+    "Application.gradeCalculator.executor": "Run",
     "Application.lab001.executor": "Run",
     "Application.lab002.executor": "Run",
     "Application.lab003.executor": "Debug",
@@ -51,6 +52,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/ApiAutomationFramework",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,7 +62,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.palaindroneNumber">
+  <component name="RunManager" selected="Application.gradeCalculator">
     <configuration name="anyNumberTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeProblems.anyNumberTable" />
       <module name="JavaPracticals" />
@@ -74,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JunePracticals.arrays.lab006" />
+    <configuration name="gradeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblems.gradeCalculator" />
       <module name="JavaPracticals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JunePracticals.arrays.*" />
+          <option name="PATTERN" value="PracticeProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gradeCalculator" />
         <item itemvalue="Application.palaindroneNumber" />
         <item itemvalue="Application.anyNumberTable" />
         <item itemvalue="Application.lab008" />
         <item itemvalue="Application.lab007" />
-        <item itemvalue="Application.lab006" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +159,8 @@
       <workItem from="1718954083050" duration="5442000" />
       <workItem from="1718959928382" duration="657000" />
       <workItem from="1718961390706" duration="330000" />
+      <workItem from="1718965188021" duration="202000" />
+      <workItem from="1719030944874" duration="2305000" />
     </task>
     <servers />
   </component>
