@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6b6075f-fbc8-4591-b9af-2a43d3733c3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JunePracticals/arrays/OOPs/lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeProblems/CheckTheLargestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeProblems/ringAngleStarPattren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeProblems/vowelOrConconent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JunePracticals/arrays/OOPs/lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JunePracticals/arrays/OOPs/lab003.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JunePracticals/arrays/OOPs/lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JunePracticals/arrays/OOPs/lab001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     "Application.gradeCalculator.executor": "Run",
     "Application.lab001.executor": "Run",
     "Application.lab002.executor": "Run",
-    "Application.lab003.executor": "Debug",
+    "Application.lab003.executor": "Run",
     "Application.lab004.executor": "Run",
     "Application.lab005.executor": "Run",
     "Application.lab006.executor": "Run",
@@ -67,13 +66,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.vowelOrConconent">
-    <configuration name="anyNumberTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProblems.anyNumberTable" />
+  <component name="RunManager" selected="Application.lab003">
+    <configuration name="lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JunePracticals.arrays.OOPs.lab001" />
       <module name="JavaPracticals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeProblems.*" />
+          <option name="PATTERN" value="JunePracticals.arrays.OOPs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gradeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProblems.gradeCalculator" />
+    <configuration name="lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JunePracticals.arrays.OOPs.lab002" />
       <module name="JavaPracticals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeProblems.*" />
+          <option name="PATTERN" value="JunePracticals.arrays.OOPs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="palaindroneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProblems.palaindroneNumber" />
+    <configuration name="lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JunePracticals.arrays.OOPs.lab003" />
       <module name="JavaPracticals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeProblems.*" />
+          <option name="PATTERN" value="JunePracticals.arrays.OOPs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lab003" />
+        <item itemvalue="Application.lab002" />
+        <item itemvalue="Application.lab001" />
         <item itemvalue="Application.vowelOrConconent" />
         <item itemvalue="Application.ringAngleStarPattren" />
-        <item itemvalue="Application.gradeCalculator" />
-        <item itemvalue="Application.palaindroneNumber" />
-        <item itemvalue="Application.anyNumberTable" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +164,7 @@
       <workItem from="1718959928382" duration="657000" />
       <workItem from="1718961390706" duration="330000" />
       <workItem from="1718965188021" duration="202000" />
-      <workItem from="1719030944874" duration="6109000" />
+      <workItem from="1719030944874" duration="12622000" />
     </task>
     <servers />
   </component>
@@ -179,6 +178,20 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JunePracticals/arrays/OOPs/lab001.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/JunePracticals/arrays/OOPs/lab003.java</url>
+          <line>5</line>
+          <properties class="JunePracticals.arrays.OOPs.lab003" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
