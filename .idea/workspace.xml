@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6b6075f-fbc8-4591-b9af-2a43d3733c3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JunePracticals/arrays/OOPs/lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JunePracticals/arrays/OOPs/lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeProblems/primeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeProblems/reverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JunePracticals/arrays/OOPs/lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JunePracticals/arrays/OOPs/lab001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,8 @@
     "Application.lab007.executor": "Run",
     "Application.lab008.executor": "Run",
     "Application.palaindroneNumber.executor": "Run",
+    "Application.primeNumber.executor": "Debug",
+    "Application.reverseString.executor": "Debug",
     "Application.ringAngleStarPattren.executor": "Run",
     "Application.vowelOrConconent.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,7 +67,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lab003">
+  <component name="RunManager" selected="Application.reverseString">
     <configuration name="lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JunePracticals.arrays.OOPs.lab001" />
       <module name="JavaPracticals" />
@@ -106,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ringAngleStarPattren" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProblems.ringAngleStarPattren" />
+    <configuration name="primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblems.primeNumber" />
       <module name="JavaPracticals" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vowelOrConconent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProblems.vowelOrConconent" />
+    <configuration name="reverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblems.reverseString" />
       <module name="JavaPracticals" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverseString" />
+        <item itemvalue="Application.primeNumber" />
         <item itemvalue="Application.lab003" />
         <item itemvalue="Application.lab002" />
         <item itemvalue="Application.lab001" />
-        <item itemvalue="Application.vowelOrConconent" />
-        <item itemvalue="Application.ringAngleStarPattren" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +165,8 @@
       <workItem from="1718959928382" duration="657000" />
       <workItem from="1718961390706" duration="330000" />
       <workItem from="1718965188021" duration="202000" />
-      <workItem from="1719030944874" duration="12622000" />
+      <workItem from="1719030944874" duration="13606000" />
+      <workItem from="1719289185970" duration="3412000" />
     </task>
     <servers />
   </component>
@@ -184,14 +186,45 @@
           <line>2</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/JunePracticals/arrays/OOPs/lab003.java</url>
-          <line>5</line>
-          <properties class="JunePracticals.arrays.OOPs.lab003" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="3" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeProblems/reverseString.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeProblems/reverseString.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeProblems/reverseString.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeProblems/reverseString.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeProblems/reverseString.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeProblems/reverseString.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeProblems/reverseString.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeProblems/reverseString.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
