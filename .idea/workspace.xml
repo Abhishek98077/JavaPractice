@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6b6075f-fbc8-4591-b9af-2a43d3733c3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/laboo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeProblems/strPalaindrone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/inheritance/lab001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +53,7 @@
     "Application.primeNumber.executor": "Debug",
     "Application.reverseString.executor": "Debug",
     "Application.ringAngleStarPattren.executor": "Run",
+    "Application.strPalaindrone.executor": "Run",
     "Application.vowelOrConconent.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -172,7 +171,7 @@
       <workItem from="1719289185970" duration="4384000" />
       <workItem from="1719306506104" duration="1227000" />
       <workItem from="1719377754088" duration="172000" />
-      <workItem from="1719385048333" duration="3657000" />
+      <workItem from="1719385048333" duration="7352000" />
     </task>
     <servers />
   </component>
@@ -191,6 +190,11 @@
           <url>file://$PROJECT_DIR$/src/Labs/arrays/OOPs/lab001.java</url>
           <line>2</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Labs/arrays/OOPs/person.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
