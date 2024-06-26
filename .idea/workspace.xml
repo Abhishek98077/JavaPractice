@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6b6075f-fbc8-4591-b9af-2a43d3733c3e" name="Changes" comment="" />
+    <list default="true" id="c6b6075f-fbc8-4591-b9af-2a43d3733c3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/laboo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeProblems/strPalaindrone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,45 +37,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.JunePracticals.arrays.lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.anyNumberTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gradeCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab008.executor&quot;: &quot;Run&quot;,
-    &quot;Application.palaindroneNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.primeNumber.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.reverseString.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ringAngleStarPattren.executor&quot;: &quot;Run&quot;,
-    &quot;Application.vowelOrConconent.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/ApiAutomationFramework&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/JavaPracticals/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.JunePracticals.arrays.lab001.executor": "Run",
+    "Application.anyNumberTable.executor": "Run",
+    "Application.gradeCalculator.executor": "Run",
+    "Application.lab001.executor": "Run",
+    "Application.lab002.executor": "Run",
+    "Application.lab003.executor": "Run",
+    "Application.lab004.executor": "Run",
+    "Application.lab005.executor": "Run",
+    "Application.lab006.executor": "Run",
+    "Application.lab007.executor": "Run",
+    "Application.lab008.executor": "Run",
+    "Application.laboo5.executor": "Run",
+    "Application.palaindroneNumber.executor": "Run",
+    "Application.primeNumber.executor": "Debug",
+    "Application.reverseString.executor": "Debug",
+    "Application.ringAngleStarPattren.executor": "Run",
+    "Application.vowelOrConconent.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "dev",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/ApiAutomationFramework",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Asus/IdeaProjects/JavaPracticals/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.reverseString">
-    <configuration name="lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JunePracticals.arrays.OOPs.lab001" />
+}]]></component>
+  <component name="RunManager" selected="Application.strPalaindrone">
+    <configuration name="lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labs.arrays.OOPs.lab004" />
       <module name="JavaPracticals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JunePracticals.arrays.OOPs.*" />
+          <option name="PATTERN" value="Labs.arrays.OOPs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JunePracticals.arrays.OOPs.lab002" />
+    <configuration name="lab006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labs.arrays.OOPs.lab006" />
       <module name="JavaPracticals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JunePracticals.arrays.OOPs.*" />
+          <option name="PATTERN" value="Labs.arrays.OOPs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,25 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JunePracticals.arrays.OOPs.lab003" />
+    <configuration name="laboo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labs.arrays.OOPs.laboo5" />
       <module name="JavaPracticals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JunePracticals.arrays.OOPs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeProblems.primeNumber" />
-      <module name="JavaPracticals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeProblems.*" />
+          <option name="PATTERN" value="Labs.arrays.OOPs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +123,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="strPalaindrone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeProblems.strPalaindrone" />
+      <module name="JavaPracticals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.strPalaindrone" />
+        <item itemvalue="Application.lab006" />
+        <item itemvalue="Application.laboo5" />
+        <item itemvalue="Application.lab004" />
         <item itemvalue="Application.reverseString" />
-        <item itemvalue="Application.primeNumber" />
-        <item itemvalue="Application.lab003" />
-        <item itemvalue="Application.lab002" />
-        <item itemvalue="Application.lab001" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +172,7 @@
       <workItem from="1719289185970" duration="4384000" />
       <workItem from="1719306506104" duration="1227000" />
       <workItem from="1719377754088" duration="172000" />
+      <workItem from="1719385048333" duration="3657000" />
     </task>
     <servers />
   </component>
@@ -180,7 +188,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/JunePracticals/arrays/OOPs/lab001.java</url>
+          <url>file://$PROJECT_DIR$/src/Labs/arrays/OOPs/lab001.java</url>
           <line>2</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
