@@ -1,4 +1,4 @@
-package JunePracticals.arrays;
+package Labs.arrays;
 
 public class lab003 {
     public static void main(String[] args) {

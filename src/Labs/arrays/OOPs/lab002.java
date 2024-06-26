@@ -1,4 +1,4 @@
-package JunePracticals.arrays.OOPs;
+package Labs.arrays.OOPs;
 
 import java.util.Scanner;
 
