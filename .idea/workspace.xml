@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6b6075f-fbc8-4591-b9af-2a43d3733c3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/construnctor/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/construnctor/personNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/inheritance/hierarchical/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/inheritance/hierarchical/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/inheritance/hierarchical/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/inheritance/hierarchical/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/inheritance/miltilevel/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/inheritance/miltilevel/GrandFather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/inheritance/miltilevel/RUNNER.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/inheritance/miltilevel/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/inheritance/single/Pragramming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/inheritance/single/Single.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/inheritance/single/java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/arrays/OOPs/construnctor/person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/construnctor/person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/arrays/OOPs/inheritance/lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Labs/arrays/OOPs/inheritance/single/lab001.java" afterDir="false" />
-    </list>
+    <list default="true" id="c6b6075f-fbc8-4591-b9af-2a43d3733c3e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,7 +174,7 @@
       <workItem from="1719377754088" duration="172000" />
       <workItem from="1719385048333" duration="7989000" />
       <workItem from="1719811348961" duration="11411000" />
-      <workItem from="1719824929241" duration="400000" />
+      <workItem from="1719824929241" duration="1072000" />
     </task>
     <servers />
   </component>
